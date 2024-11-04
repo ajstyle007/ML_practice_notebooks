@@ -1,4 +1,4 @@
-# ML Practice Notebooks
+# ML Practice 
 
 ![images](https://github.com/user-attachments/assets/4bdbc297-fcbc-4649-80ce-2794b97bf811)
 
