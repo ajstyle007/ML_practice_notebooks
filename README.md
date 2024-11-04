@@ -9,7 +9,7 @@ A collection of Jupyter and colab notebooks for practicing and learning machine 
 - Supervised learning (classification & regression)
 - Unsupervised learning (clustering, PCA, etc.)
 - Model evaluation metrics
-- Visualization of decision boundaries and model 
+- Visualization of decision boundaries and model performance
 - Hyperparameter tuning and optimization
   
 Whether you're a beginner looking to learn machine learning or an experienced developer wanting to sharpen your skills, these notebooks provide practical examples and hands-on experience in building and fine-tuning models.
