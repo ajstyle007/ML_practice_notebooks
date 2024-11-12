@@ -2,7 +2,7 @@
 
 ![images](https://github.com/user-attachments/assets/4bdbc297-fcbc-4649-80ce-2794b97bf811)
 
-A collection of Jupyter and colab notebooks for practicing and learning machine learning concepts using various libraries and frameworks, including Scikit-learn, pandas, numpy, matplotlib, plotly and seaborn. These notebooks cover a range of topics from data  and feature engineering to model training, evaluation, and optimization techniques.
+A collection of Jupyter and colab notebooks for practicing and learning machine learning concepts using various libraries and frameworks, including Scikit-learn, pandas, numpy, matplotlib, plotly and seaborn. These notebooks cover a range of topics from data preprocessing and feature engineering to model training, evaluation, and optimization techniques.
 
 ## Contents
 - Data cleaning and preprocessing techniques
